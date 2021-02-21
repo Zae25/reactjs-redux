@@ -1,0 +1,95 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Ahmad Zae",
+          "alamat": "Jatipadang",
+          "umur": 30,
+          "nohp": "081385291303"
+        },
+        {
+          "id": 2,
+          "nama": "Zaelani",
+          "alamat": "Pasar Minggu",
+          "umur": 30,
+          "nohp": "08981611022"
+        },
+        {
+          "id": 3,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 4,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 5,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 6,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 7,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 8,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 9,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 10,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 11,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 12,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        },
+        {
+          "id": 13,
+          "nama": "Sabil",
+          "alamat": "Jatipadang",
+          "umur": 5,
+          "nohp": "08138529000"
+        }
+      ]
+}
